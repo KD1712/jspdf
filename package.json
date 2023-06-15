@@ -12,12 +12,18 @@
     "@types/node": "20.2.5",
     "@types/react": "18.2.7",
     "@types/react-dom": "18.2.4",
+    "crypto-randomuuid": "^1.0.0",
     "eslint": "8.41.0",
     "eslint-config-next": "13.4.4",
     "html2pdf.js": "^0.10.1",
     "next": "13.4.4",
+    "pdf2img": "^0.5.0",
+    "qrcode": "^1.5.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "typescript": "5.0.4"
+  },
+  "devDependencies": {
+    "@types/qrcode": "^1.5.0"
   }
 }
